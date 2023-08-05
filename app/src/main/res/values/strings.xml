@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="titleApp">Calculator</string>
+    <string name="result">Result:&#160;</string>
+    <string name="inputA">input first number</string>
+    <string name="inputB">input second number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="division">/</string>
+    <string name="multiplication">*</string>
+    <string name="error">Cannot be divided by 0</string>
+    <string name="errorEmptyField">Input the number!</string>
+    <string name="warning">Check the correct inputted fields</string>
+</resources>
